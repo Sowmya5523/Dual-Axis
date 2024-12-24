@@ -73,7 +73,7 @@ energy and reduce energy costs.
 are not connected to the grid. By generating their own energy, these locations can reduce 
 their dependence on traditional energy sources and increase their energy independence.
 
-1CONCLUSION
+CONCLUSION
 As solar energy is considered one of the main sources of energy in the near future, In
 this project, a simple and concise overview of the solar tracking mechanism to improve 
 the solar gain energy, also the costs of the solar tracker operation and cost maintenance is 
